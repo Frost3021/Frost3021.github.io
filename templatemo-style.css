@@ -324,7 +324,7 @@ hr {
 
 /* START ABOUT */
 .tm-about {
-  background: url('about.jpeg');
+  background: url('about-bg.jpeg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
