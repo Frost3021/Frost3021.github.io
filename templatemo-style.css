@@ -416,7 +416,7 @@ input { height: 50px; }
 }
 @media screen and (max-device-width: 980px){
   .tm-about {
-    background-attachment: scroll;
+    background-attachment: fixed;
   }
 }
 
