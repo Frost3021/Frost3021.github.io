@@ -103,7 +103,7 @@ hr {
  }
 .tm-home-title { font-size: 60px; }
 .tm-home-subtitle {
-  color: #1dacc2;
+  color: #eb5424;
   font-weight: bold;
   padding-bottom: 40px;
   letter-spacing: 2px;
@@ -122,7 +122,7 @@ hr {
 }
 .tm-view-more-btn:hover {
   background: #ffffff;
-  color: #1dacc2;
+  color: #eb5424;
 }
 /* END HOME */
 
@@ -132,7 +132,7 @@ hr {
   padding-bottom: 100px;
 }
 .tm-work-h3 {
-  color: #1dacc2;
+  color: #eb5424;
   font-size: 20px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -146,7 +146,7 @@ hr {
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
 }
-.work-wrapper:hover { border-color: #1dacc2; }
+.work-wrapper:hover { border-color: #eb5424; }
 .work-wrapper .fa {
   color: #888888;
   font-size: 60px;
@@ -197,7 +197,7 @@ hr {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #1dacc2;
+  background: #eb5424;
   color: #ffffff;
   top: 0;
   right: 0;
@@ -409,7 +409,7 @@ input { height: 50px; }
 .tm-contact p { padding-top: 40px; }
 /* END CONTACT */
 
-@media screen and (max-device-width: 1024px){
+@media screen and (max-device-width: 980px){
   .templatemo-home {
     background-attachment: scroll;
   }
