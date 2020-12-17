@@ -417,6 +417,8 @@ input { height: 50px; }
 @media screen and (max-device-width: 980px){
   .tm-about {
     background-attachment: fixed;
+    padding-top: 250px;
+  padding-bottom: 250px;
   }
 }
 
